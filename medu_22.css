@@ -1,0 +1,15 @@
+{
+    font-size: 19pt;
+}
+
+p#gruby_medu {
+    color: green;
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+#dlawszyskich_medu {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial;
+}
